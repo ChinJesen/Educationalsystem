@@ -1,0 +1,43 @@
+ /** main“≥√Ê*/
+.log{
+	background: -webkit-linear-gradient(top,#0080FF 40%,#D2E9FF 100%);
+	height: 110px; width:1341px;  text-align: center; line-height: 2 ; font-size:50px; font-color:#fffafa;
+	}
+.caozuo{
+	background: -webkit-linear-gradient(top,#0080FF 40%,#D2E9FF 100%);
+ 	float: left; width: 233px; height: 505px;  font-size:35px; font-color:#fffafa;
+	background-position-x: 505px; 
+	}
+	.caozuo div{
+	font-color:#fffafa;
+	font-size:28px;background: -webkit-linear-gradient(top,#81c0c0 40%,#ffffff 100%);
+	}
+.neirong{
+	width:1341px; height: 505px; float: none;  text-align: center;
+	font-size:28px; background: -webkit-linear-gradient(top,#46A3FF 40%,#C4E1FF 100%);
+	}
+.banquan{
+	background: -webkit-linear-gradient(top,#C4E1FF 40%,#84C1FF 100%);
+	text-align: center; width:1341px; height: 50px;
+	position: absolute; top:623px;
+	}
+.ifram{
+	width: 80%; height: 500px; 
+	}
+.caozuo div li{
+			font-size:20px;
+			font-color:#fffafa;
+			text-align: center;
+			list-style-type:none; 
+			background-color: chartreuse;
+			background: -webkit-linear-gradient(top,#ceffce 40%,#FFFFFF 100%);
+		}
+.caozuo div:hover{
+			background: -webkit-linear-gradient(top,#5cadad 40%,#FFFFFF 100%);
+		}
+.caozuo div li:hover{
+			background: -webkit-linear-gradient(top,#96fed1 40%,#FFFFFF 100%);
+		}
+.caozuo div a{
+			text-decoration: none;
+		}
